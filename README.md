@@ -22,28 +22,28 @@ Find and replace this string in the project: 'FIREBASE_AUTH_API_KEY' with your f
 ## Screenshots
 
 ### Login
-![Alt text](readme_extras/login.png?raw=true width="512" height="720" "Login Page")
+![Alt text](readme_extras/login.png "Login Page")
 
 ### Signup
-![Alt text](readme_extras/signup.png?raw=true width="512" height="720" "Signup Page")
+![Alt text](readme_extras/signup.png "Signup Page")
 
 ### Store Front
-![Alt text](readme_extras/store.png?raw=true width="512" height="720" "Store Front Page")
+![Alt text](readme_extras/store.png "Store Front Page")
 
 ### Manage Products
-![Alt text](readme_extras/manage_products.png?raw=true width="512" height="720" "Manage Products Page")
+![Alt text](readme_extras/manage_products.png "Manage Products Page")
 
 ### Shopping Cart
-![Alt text](readme_extras/cart.png?raw=true width="512" height="720" "Shopping Cart Page")
+![Alt text](readme_extras/cart.png "Shopping Cart Page")
 
 ### Edit Product
-![Alt text](readme_extras/edit_product.png?raw=true width="512" height="720" "Edit Product Page")
+![Alt text](readme_extras/edit_product.png "Edit Product Page")
 
 ### Orders
-![Alt text](readme_extras/orders?raw=true width="512" height="720" "Orders Page")
+![Alt text](readme_extras/orders "Orders Page")
 
 ### Side Bar
-![Alt text](readme_extras/side_bar.png?raw=true width="512" height="720" "Side Bar")
+![Alt text](readme_extras/side_bar.png "Side Bar")
 
 ### Firebase Database
-![Alt text](readme_extras/firebase.png?raw=true width="512" height="720" "Firebase Database")
+![Alt text](readme_extras/firebase.png "Firebase Database")
