@@ -40,7 +40,7 @@ Find and replace this string in the project: 'FIREBASE_AUTH_API_KEY' with your f
 ![Alt text](readme_extras/edit_product.png "Edit Product Page")
 
 ### Orders
-![Alt text](readme_extras/orders "Orders Page")
+![Alt text](readme_extras/orders.png "Orders Page")
 
 ### Side Bar
 ![Alt text](readme_extras/side_bar.png "Side Bar")
